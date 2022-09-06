@@ -1,0 +1,2 @@
+# CNN
+permulaan CNN
